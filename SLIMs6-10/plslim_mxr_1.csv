@@ -1,0 +1,50 @@
+Parts List	Designator	Value	Part Number	Digikey Number	Cost	MSA	Notes
+Rev B	xx-alt	alternate	can be substituted				
+9/8/2008	xx-opt	optional	"used or deleted, builder's choice"				
+PLSLIM-MXR-1	C5						"Rev A, deleted 100 pf"
+PLSLIM-MXR-1	C25	100 pF	C0805C101K5GACTU	399-1121-1-ND	0.05	0.05	
+PLSLIM-MXR-1	J1-opt	SMA OPT	"Molex, 538-73391-0070"	WM5544-ND	4.74		
+PLSLIM-MXR-1	J2-opt	SMA OPT	"Molex, 538-73391-0070"	WM5544-ND	4.74		
+PLSLIM-MXR-1	J3-opt	SMA OPT	"Molex, 538-73391-0070"	WM5544-ND	4.74		
+PLSLIM-MXR-1	MXR	ADE-11X	ADE-11X	Minicircuits	2.95	2.95	
+PLSLIM-MXR-1	R15	0	MCR10EZHJ0.0	RHM0.0ACT-ND	0.08	0.08	or use jumper
+PLSLIM-MXR-1	R1	330	MCR10EZHF330	RHM330CCT-ND	0.04	0.04	"Rev B, Digi # error"
+PLSLIM-MXR-1	R5	15	MCR10EZHF15.0	RHM15.0CCT-ND	0.04	0.04	"Rev B, Digi # error"
+PLSLIM-MXR-1	R9	330	MCR10EZHF330	RHM330CCT-ND	0.04	0.04	"Rev B, Digi # error"
+PLSLIM-MXR-1	PWB	Circuit Board	PWB-MXR-ADE		3.28	3.28	
+				PLSLIM-MXR-1	20.7	6.48	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+			
+			
+
+
+
+			

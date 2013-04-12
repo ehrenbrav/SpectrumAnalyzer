@@ -1,0 +1,54 @@
+Parts List	Designator	Value	Part Number	Digikey Number	Cost	MSA	Notes
+Rev B	xx-alt	alternate	can be substituted				
+9/8/2008	xx-opt	optional	"used or deleted, builder's choice"				
+PLSLIM-MXR-3	C5						"RevA, deleted 100 pf"
+PLSLIM-MXR-3	C25						"RevA, deleted 100 pf"
+PLSLIM-MXR-3	C29	2 pF	ECJ-2VC1H020C	PCC020CNCT-ND	0.1	0.1	
+PLSLIM-MXR-3	R1	330	MCR10EZHF330	RHM330CCT-ND	0.04	0.04	"Rev B, Digi # error"
+PLSLIM-MXR-3	R5	15	MCR10EZHF15.0	RHM15.0CCT-ND	0.04	0.04	"Rev B, Digi # error"
+PLSLIM-MXR-3	R9	330	MCR10EZHF330	RHM330CCT-ND	0.04	0.04	"Rev B, Digi # error"
+PLSLIM-MXR-3	R21	75	MCR10EZHF75.0	RHM75.0CCT-ND	0.04	0.04	"Rev A, added"
+PLSLIM-MXR-3	R25	120	MCR10EZHF120	RHM120CCT-ND	0.04	0.04	"Rev A, added"
+PLSLIM-MXR-3	R29	75	MCR10EZHF75.0	RHM75.0CCT-ND	0.04	0.04	"Rev A, added"
+PLSLIM-MXR-3	J1-opt	SMA OPT	"Molex, 538-73391-0070"	WM5544-ND	4.74		
+PLSLIM-MXR-3	J2-opt	SMA OPT	"Molex, 538-73391-0070"	WM5544-ND	4.74		
+PLSLIM-MXR-3	J3-opt	SMA OPT	"Molex, 538-73391-0070"	WM5544-ND	4.74		
+PLSLIM-MXR-3	MXR	ADE-11X	ADE-11X	Minicircuits	2.95	2.95	
+PLSLIM-MXR-3	R15	0	MCR10EZHJ0.0	RHM0.0ACT-ND	0.08	0.08	or use jumper
+PLSLIM-MXR-3	PWB	Circuit Board	PWB-MXR-ADE		3.28	3.28	
+				PLSLIM-MXR-3	20.87	6.65	
+
+							
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+			
+			
+
+
+
+			
